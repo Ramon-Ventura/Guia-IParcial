@@ -1,7 +1,7 @@
 # Programa: 04-Palindromo.py
 # Objetivo: Obtener el palindromo mayor del producto de dos numeros de tres digitos
 # Autor: Ramon Ventura
-# Fecha: 01/Enero/2020
+# Fecha: 07/Febrero/2020
 def palindromo():
     '''
     Retorna el palindromo mas grande del producto de dos numeros de tres digitos
