@@ -1,4 +1,5 @@
 # Programa: 02-Fibonacci
+# Guia: I-Parcial
 # Objetivo: Encontrar la sumatoria de los terminos pares de la secuencia de fibonacci
 # Autor: Ramon Humberto Ventura
 # Fecha: 02/Febrero/2020

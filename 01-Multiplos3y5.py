@@ -1,4 +1,5 @@
 # Programa: 01-Multiplos3y5
+# Guia: I-Parcial
 # Objetivo: Sumar todos los multiplos de 3 o 5
 # Autor: Ramon Humberto Ventura
 # Fecha: 02/Febrero/2020

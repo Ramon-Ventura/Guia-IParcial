@@ -1,4 +1,5 @@
 # Programa 05-Divisible1a20.py
+# Guia: I-Parcial
 # Objetivo: Obtener el entero positivo mas pequeño divisible por los numeros del 1-20 
 # Autor: Ramon Ventura
 # Fecha: 02/Febrero/2020

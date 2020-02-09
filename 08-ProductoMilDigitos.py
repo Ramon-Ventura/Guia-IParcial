@@ -1,4 +1,5 @@
 # Programa 08-ProductoMilDigitos.py
+# Guia: I-Parcial
 # Objetivo: Obtener el mayor producto de 10 digitos del numero de 1000 digitos
 # Autor: Ramon Ventura
 # Fecha: 02/Febrero/2020

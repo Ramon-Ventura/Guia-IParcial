@@ -1,4 +1,5 @@
 # Programa 07-NumeroPrimo.py
+# Guia: I-Parcial
 # Objetivo: Obtener el numero primo 20,001
 # Autor: Ramon Ventura
 # Fecha: 02/Febrero/2020

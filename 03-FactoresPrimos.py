@@ -1,4 +1,5 @@
 # Programa: 03-FactoresPrimos.py
+# Guia: I-Parcial
 # Objetivo: Obtener el factor primo mas grande de 600, 851,475,143
 # Autor: Ramon Ventura
 # Fecha: 01/Enero/2020

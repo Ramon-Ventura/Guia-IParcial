@@ -1,4 +1,5 @@
 # Programa 05-Divisible1a20.py
+# Guia: I-Parcial
 # Objetivo: Obtener la diferencia del cuadrado de la suma y de la suma de cuadrados de un rango en especifico.
 # Autor: Ramon Ventura
 # Fecha: 02/Febrero/2020

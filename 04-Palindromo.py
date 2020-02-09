@@ -1,4 +1,5 @@
 # Programa: 04-Palindromo.py
+# Guia: I-Parcial
 # Objetivo: Obtener el palindromo mayor del producto de dos numeros de tres digitos
 # Autor: Ramon Ventura
 # Fecha: 20/Enero/2020

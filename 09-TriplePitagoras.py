@@ -1,4 +1,5 @@
 # Programa 09-TriplePitagoras.py
+# Guia: I-Parcial
 # Objetivo: Encontrar un triple de pitagoras que cumpla con la condicion a+b+c = 1000
 # Autor: Ramon Ventura
 # Fecha: 02/Febrero/2020
