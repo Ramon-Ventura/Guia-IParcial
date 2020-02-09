@@ -5,30 +5,22 @@
 
 def numero_primo(rango):
     '''
-    Retorna la cantidad n numeros primos consecutivos.
+    Retorna el primo n de la infinita lista de numeros primos consecutivos
 
-    Parametos:
-    rango: Valor de la cantidad de numeros primos consecutivos
+    Parametros:
+    rango: valor del limite de la lista de numeros primos consecutivos
     '''
-    numero = 1 # valor por verificar si es primo o no
-    contador = 0 # valor que permite verificar la cantidad de divisores del respectivo numero
-    primo = 0 # valor del rango de la cantidad de primos consecutivos
-    x = 1 # valor que ira incrementando para verificar los divisores de cada numero
-    while primo < rango-1:
-        numero += 2
-        while x <= numero:
-            if numero % x == 0:
-                contador += 1
-            if contador > 2:
-                break
-            x += 2
-        x = 1
-        if contador == 2:
-            primo += 1
-            print (numero,primo+1)
-            
-        contador = 0
-    return numero  
+    x = 1 # primer numero primo de la lista
+    lista = list(range(1,(rango*15)+1)) # lista de numeros de los cuales se eliminaran los que no son primos
+    while lista[x] ** 2 < rango*15:
+        y = x
+        while y < len(lista):
+            if lista[y] % lista[x] == 0 and lista[y] > lista[x]:
+                del (lista[y])
+            y += 1
+        x += 1
+    return 'El primo ' + str(rango) + ' es ' + str(lista[rango])
 
+    
 if __name__ == "__main__":
     print(numero_primo(20001))
